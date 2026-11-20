@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: Lib: ZoneBrightness-1.0
+## Notes: Terrain brightness per zone (bright / normal / dark) so addon palettes can stay readable over sand, snow and forest.
+## Author: Kuro
+## Version: @project-version@
+## SavedVariables: LibZoneBrightnessDB
+## OptionalDeps: LibStub
+## LoadOnDemand: 0
+## X-Website: https://github.com/WoWAddons-Kuro/LibZoneBrightness
+
+LibStub\LibStub.lua
+LibZoneBrightness-1.0.lua
