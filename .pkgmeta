@@ -3,3 +3,6 @@ package-as: LibZoneBrightness
 ignore:
   - ".git*"
   - "*.md"
+  - Assets
+  - "*.png"
+  - "*.jpg"
