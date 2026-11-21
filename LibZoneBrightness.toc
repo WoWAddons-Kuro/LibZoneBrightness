@@ -2,7 +2,7 @@
 ## Title: Lib: ZoneBrightness-1.0
 ## Notes: Terrain brightness per zone (bright / normal / dark) so addon palettes can stay readable over sand, snow and forest.
 ## Author: Kuro
-## Version: @project-version@
+## Version: v2026.11.20.2128
 ## SavedVariables: LibZoneBrightnessDB
 ## OptionalDeps: LibStub
 ## LoadOnDemand: 0
